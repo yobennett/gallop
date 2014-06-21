@@ -1,0 +1,31 @@
+# Log files
+*.log
+logs
+
+# Build files
+
+
+# Maven files
+overlays/
+target/
+
+# IDE
+.classpath
+.project
+.settings
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+tags
+
+/.idea
+*.iml
+*.ipr
+*.iws
+.idea
+.classpath
+.project
+.settings
+*.xml.versionsBackup
+*.~pck
